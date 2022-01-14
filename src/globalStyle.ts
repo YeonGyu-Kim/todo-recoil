@@ -1,5 +1,4 @@
 import { createGlobalStyle } from "styled-components";
-import React from "react";
 
 const Globalstyles = createGlobalStyle`
  html, body, div, span, applet, object, iframe,

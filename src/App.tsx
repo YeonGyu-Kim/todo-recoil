@@ -1,4 +1,3 @@
-import React from "react";
 import Globalstyles from "./globalStyle";
 import ToDoList from "./components/toDoList";
 
